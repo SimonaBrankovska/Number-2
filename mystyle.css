@@ -1,0 +1,76 @@
+
+body {background-color: green;}
+
+h1 {
+    color: black;
+text-align: center}
+
+  .Table
+    {
+        display: table;
+background-color: yellow;
+margin:0 auto;
+    }
+    .Title
+    {
+        display: table-caption;
+        text-align: center;
+        font-weight: bold;
+        font-size: larger;
+    }
+    .Heading
+    {
+        display: table-row;
+        font-weight: bold;
+        text-align: center;
+    }
+    .Row
+    {
+        display: table-row;
+height: 30px;
+width: 20%;
+    }
+    .Cell
+    {
+        display: table-cell;
+        border: solid;
+        border-width: thin;
+        padding-left: 5px;
+        padding-right: 5px;
+height: 30px;
+width: 20%;
+background-color: yellow;
+
+}
+#bread { height: 150px;
+width: 150px:}
+#waffle { height: 150px;
+width: 150px:}
+#potato { height: 150px;
+width: 150px:}
+#watermelon { height: 150px;
+width: 150px:}
+#pear { height: 150px;
+width: 150px:}
+#peanuts { height: 150px;
+width: 150px:}
+#banana { height: 150px;
+width: 150px:}
+#donut { height: 150px;
+width: 150px:}
+#cookies { height: 150px;
+width: 150px:}
+#cucumber { height: 150px;
+width: 150px:}
+#cake { height: 150px;
+width: 150px:}
+#butter{ height: 150px;
+width: 150px:}
+#egg { height: 150px;
+width: 150px:}
+#peas { height: 150px;
+width: 150px:}
+#beans { height: 150px;
+width: 150px:}
+#spinach { height: 150px;
+width: 150px:}
